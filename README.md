@@ -12,11 +12,8 @@ This project is a **Personalized Movie Recommendation System** built using the *
 4. [Workflow](#workflow)
 5. [Technologies and Libraries Used](#technologies-and-libraries-used)
 6. [Setup Instructions](#setup-instructions)
-7. [Project Deliverables](#project-deliverables)
-8. [Enhancements](#enhancements)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
-11. [Contact](#contact)
+7. [Acknowledgments](#acknowledgments)
+8. [Contact](#contact)
 
 ---
 
